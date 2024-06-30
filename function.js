@@ -15,3 +15,9 @@ function c() {
     var a = 100;
     console.log(a);
 }
+
+
+
+// Undefined is a special keyword in js which takes up the memory space until a value is assigned to it 
+
+// undefined !== not defined
