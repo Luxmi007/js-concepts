@@ -34,5 +34,5 @@ ael();
 // Garbage collectors and removeEventListeners
 
 /*
-  event listeners are heavy as it holds up the memory even when not in use
+  eventListeners are heavy as it holds up the memory even when not in use
 */
